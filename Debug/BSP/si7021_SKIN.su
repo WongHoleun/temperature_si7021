@@ -1,0 +1,12 @@
+../BSP/si7021_SKIN.c:47:13:delay_us	16	static
+../BSP/si7021_SKIN.c:65:6:si7021_iic_start	8	static
+../BSP/si7021_SKIN.c:83:6:si7021_iic_stop	8	static
+../BSP/si7021_SKIN.c:102:9:si7021_iic_wait_ack	16	static
+../BSP/si7021_SKIN.c:137:6:si7021_iic_ack	8	static
+../BSP/si7021_SKIN.c:157:6:si7021_iic_nack	8	static
+../BSP/si7021_SKIN.c:176:6:si7021_send_byte	24	static
+../BSP/si7021_SKIN.c:201:9:si7021_read_byte	24	static
+../BSP/si7021_SKIN.c:241:6:si7021_write_command	16	static
+../BSP/si7021_SKIN.c:264:6:si7021_read_data	24	static
+../BSP/si7021_SKIN.c:298:9:si7021_measure_temperature	16	static
+../BSP/si7021_SKIN.c:315:6:si7021_init	8	static
